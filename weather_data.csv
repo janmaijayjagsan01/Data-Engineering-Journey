@@ -1,0 +1,4 @@
+city,temp_celsius,humidity,status
+Paris,21.0,80,Cold
+Mumbai,28.05,90,Cold
+Lucknow,34.85,70,Hot
