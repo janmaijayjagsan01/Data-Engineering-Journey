@@ -6,6 +6,11 @@ def extract():
         {"city": "paris", "temp_kelvin":294.15, "humidity": 80},
         {"city": "mumbai", "temp_kelvin":301.2, "humidity": 90},
         {"city": "lucknow", "temp_kelvin":308 ,"humidity": 70},
+        {"city": "jaipur", "temp_kelvin":308.15, "humidity": 60},
+        {"city": "rachi", "temp_kelvin":303.15, "humidity": 75},
+        {"city": "kashmir", "temp_kelvin":288.15, "humidity": 85},
+        {"city": "ladhak", "temp_kelvin":283.15, "humidity": 90},
+        {"city": "sikkim", "temp_kelvin":285.15, "humidity": 88},
     ]
     print("EXTRACTED DATA:", raw_data)
     return raw_data

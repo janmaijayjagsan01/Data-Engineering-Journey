@@ -1,9 +1,9 @@
 city,temp_celsius,humidity,status
-Paris,21.0,80,Cold
-Mumbai,28.05,90,Cold
-Lucknow,34.85,70,Hot
 Jaipur,35.0,60,Hot
+Lucknow,34.85,70,Hot
 Rachi,30.0,75,Hot
+Mumbai,28.05,90,Cold
+Paris,21.0,80,Cold
 Kashmir,15.0,85,Cold
-Ladhak,10.0,90,Cold
 Sikkim,12.0,88,Cold
+Ladhak,10.0,90,Cold
