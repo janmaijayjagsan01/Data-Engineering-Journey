@@ -2,7 +2,7 @@ import csv
 import requests
 from datetime import datetime
 
-API_KEY = "977d4a31a3ee10b81152bcfefb984a83"
+API_KEY = "open_weather_api_key"
 CITIES = ["Lucknow", "Mumbai", "Delhi", "Bangalore", "Chennai"]
 
 # =================== EXTRACT ===================
